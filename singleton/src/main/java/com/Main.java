@@ -13,6 +13,7 @@ public class Main {
     DatabaseConnection db = DatabaseConnection.getInstance(p.getProperty("URL"), p.getProperty("USER"), p.getProperty("PASSWORD"));
 
     Connection connection = db.getConnection();
+
     db.closeConnection();
   }
 }
