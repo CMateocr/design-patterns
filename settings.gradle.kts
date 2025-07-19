@@ -4,3 +4,4 @@ include("factory-method")
 
 include("mediator")
 include("correcion")
+include("singleton")

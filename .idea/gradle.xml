@@ -12,6 +12,7 @@
             <option value="$PROJECT_DIR$/correcion" />
             <option value="$PROJECT_DIR$/factory-method" />
             <option value="$PROJECT_DIR$/mediator" />
+            <option value="$PROJECT_DIR$/singleton" />
           </set>
         </option>
       </GradleProjectSettings>
