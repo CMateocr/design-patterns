@@ -13,6 +13,7 @@
             <option value="$PROJECT_DIR$/bridge" />
             <option value="$PROJECT_DIR$/composite" />
             <option value="$PROJECT_DIR$/correcion" />
+            <option value="$PROJECT_DIR$/decorator" />
             <option value="$PROJECT_DIR$/factory-method" />
             <option value="$PROJECT_DIR$/mediator" />
             <option value="$PROJECT_DIR$/singleton" />
