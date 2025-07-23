@@ -21,6 +21,7 @@
             <option value="$PROJECT_DIR$/observer" />
             <option value="$PROJECT_DIR$/proxy" />
             <option value="$PROJECT_DIR$/singleton" />
+            <option value="$PROJECT_DIR$/visitor" />
           </set>
         </option>
       </GradleProjectSettings>
